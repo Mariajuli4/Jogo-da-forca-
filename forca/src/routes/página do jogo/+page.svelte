@@ -122,6 +122,7 @@
   <body>
 	<h1>Jogo da forca</h1>
 	<h2>Digite no teclado uma letra e tente adivinhar a palavra!</h2>
+        <h2>Dica: Frutas</h2>
 	<div class="jogo-container">
 	  <div class="forca-container">
 		<svg height="250" width="200" class="forca">
